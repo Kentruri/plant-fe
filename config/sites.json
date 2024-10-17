@@ -1,0 +1,39 @@
+{
+  "site1": {
+    "logo": "https://example.com/logo1.png",
+    "primaryColor": "#3498db",
+    "form": [
+      {
+        "id": "name",
+        "label": "Name",
+        "type": "text"
+      },
+      {
+        "id": "email",
+        "label": "Email",
+        "type": "email"
+      },
+      {
+        "id": "feedback",
+        "label": "Feedback",
+        "type": "textarea"
+      }
+    ]
+  },
+  "site2": {
+    "logo": "https://example.com/logo2.png",
+    "primaryColor": "#e74c3c",
+    "form": [
+      {
+        "id": "username",
+        "label": "Username",
+        "type": "text"
+      },
+      {
+        "id": "age",
+        "label": "Age",
+        "type": "number"
+      }
+    ]
+  }
+}
